@@ -61,6 +61,10 @@
 (^|\.)ads\d{0,3}\..*$
 (^|\.)tracking\..*$
 
+#btbtt.me
+(^|\.)btbtt\.me\\imgs\.js$
+
+
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
 (^|\.)(analytics|img1|img2|mimg|push)\.126\.net$
